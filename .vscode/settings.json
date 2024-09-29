@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "enter/enter.sqlproj",
+        "sqlite3/sqlite3.sqlproj"
+    ]
+}

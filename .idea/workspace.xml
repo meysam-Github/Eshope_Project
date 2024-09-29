@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4896498f-2e79-4553-9b0f-0ff7e68e4b6e" name="Changes" comment="this is first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b928fda5-7a62-4182-a1c1-d7a75c3cfb9c" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lC8bUfp1ltZqYKOzzWmXdGu0El" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.eshop_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;data.sources.detected.do.not.suggest.again&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programming/eshop_project/eshop_project/account_module/templates/account_module&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programming\eshop_project\eshop_project\account_module\templates\account_module" />
+      <recent name="C:\Programming\eshop_project\eshop_project\templates\shared" />
+      <recent name="C:\Programming\eshop_project\eshop_project\product_module\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\eshop_project\eshop_project\home_module\templates\home_module" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.eshop_project">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eshop_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python course" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python course/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eshop_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="eshop_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="eshop_project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4896498f-2e79-4553-9b0f-0ff7e68e4b6e" name="Changes" comment="" />
+      <created>1724672769735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724672769735</updated>
+      <workItem from="1724672771105" duration="1554000" />
+      <workItem from="1724749785699" duration="7894000" />
+      <workItem from="1724837250367" duration="7421000" />
+      <workItem from="1724871445564" duration="1789000" />
+      <workItem from="1724911474614" duration="6542000" />
+      <workItem from="1724931670933" duration="210000" />
+      <workItem from="1725020211139" duration="1710000" />
+      <workItem from="1725023632007" duration="2709000" />
+      <workItem from="1725076868360" duration="4154000" />
+      <workItem from="1725162750146" duration="346000" />
+      <workItem from="1725163128201" duration="4172000" />
+      <workItem from="1725198347684" duration="43000" />
+      <workItem from="1725198409967" duration="799000" />
+      <workItem from="1725794133678" duration="3527000" />
+      <workItem from="1725797818035" duration="3838000" />
+      <workItem from="1725866284656" duration="10048000" />
+      <workItem from="1725884584578" duration="229000" />
+      <workItem from="1725958900995" duration="9283000" />
+      <workItem from="1725969814008" duration="1067000" />
+      <workItem from="1726024323721" duration="5497000" />
+      <workItem from="1726041156246" duration="603000" />
+      <workItem from="1726055477362" duration="3721000" />
+      <workItem from="1726063298948" duration="136000" />
+      <workItem from="1726123561371" duration="5893000" />
+      <workItem from="1726133264680" duration="2833000" />
+      <workItem from="1726222503818" duration="7753000" />
+      <workItem from="1726237999303" duration="527000" />
+      <workItem from="1726310098869" duration="8888000" />
+      <workItem from="1726397009006" duration="8078000" />
+      <workItem from="1726405975584" duration="364000" />
+      <workItem from="1726406353070" duration="1212000" />
+      <workItem from="1726482717427" duration="10822000" />
+      <workItem from="1726574523007" duration="4797000" />
+      <workItem from="1726682243763" duration="3179000" />
+      <workItem from="1726732586556" duration="2205000" />
+      <workItem from="1726740303714" duration="3254000" />
+      <workItem from="1726747357816" duration="2155000" />
+      <workItem from="1726819770190" duration="862000" />
+      <workItem from="1726823620738" duration="473000" />
+      <workItem from="1726834845940" duration="1750000" />
+      <workItem from="1726914067403" duration="8935000" />
+      <workItem from="1727004993050" duration="1431000" />
+      <workItem from="1727012124106" duration="875000" />
+      <workItem from="1727069340910" duration="3976000" />
+      <workItem from="1727073382582" duration="1924000" />
+      <workItem from="1727075445593" duration="166000" />
+      <workItem from="1727075698417" duration="857000" />
+      <workItem from="1727086250535" duration="4616000" />
+      <workItem from="1727094058196" duration="3225000" />
+      <workItem from="1727173959433" duration="5804000" />
+      <workItem from="1727242800794" duration="16000" />
+      <workItem from="1727242843365" duration="19000" />
+      <workItem from="1727242889331" duration="363000" />
+      <workItem from="1727243517299" duration="3000" />
+      <workItem from="1727255512298" duration="38000" />
+    </task>
+    <task id="LOCAL-00001" summary="this is first commit">
+      <option name="closed" value="true" />
+      <created>1726406797007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726406797007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is first commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/eshop_project$test.coverage" NAME="test Coverage Results" MODIFIED="1724873222664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../python course" />
+  </component>
+</project>
