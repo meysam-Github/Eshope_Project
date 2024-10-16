@@ -1,11 +1,14 @@
+{% load thumbnail %}
+
 <div class="col-sm-4">
     <div class="product-image-wrapper">
         <div class="single-products">
             <div class="productinfo text-center">
                 {% if product.image %}
-                    <img src="{{ product.image.url }}" alt="">
+                {% thumbnail product.image '268x250' crop='center' quality=80 as im %}
+                    <img src="{{ im.url }}">
+                {% endthumbnail %}
                 {% else %}
-                    <img src="/static/images/shop/product.jpg" alt="">
                 {% endif %}
                 <h2>{{ product.price }} تومان</h2>
                 <p>{{ product.title }}</p>
