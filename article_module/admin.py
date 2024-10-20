@@ -19,9 +19,12 @@ class ArticleAdmin(admin.ModelAdmin):
         if not change:
             obj.author = request.user
         return super().save_model(request, obj, form, change)
+    
+class ArticleCommentAdmin(admin.ModelAdmin):
+    list_display = ['user', 'create_date', 'parent']
 
 
 admin.site.register(models.ArticleCategory, ArticleCategoryAdmin)
 admin.site.register(models.Article, ArticleAdmin)
-admin.site.register(models.ArticleComment)
+admin.site.register(models.ArticleComment, ArticleCommentAdmin)
 

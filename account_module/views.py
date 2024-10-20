@@ -8,7 +8,7 @@ from django.views import View
 from account_module.forms import RegisterForm, LoginForm, ForgotPasswordForm, ResetPasswordForm
 from .models import User
 from django.http import Http404, HttpRequest
-from utils.email_service import send_mail
+from utils.email_service import send_email
 
 
 class RegisterView(View):
