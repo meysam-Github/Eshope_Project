@@ -5,108 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4896498f-2e79-4553-9b0f-0ff7e68e4b6e" name="Changes" comment="this is first commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd75e508-0eab-44d4-9b13-47226990a471.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bd75e508-0eab-44d4-9b13-47226990a471.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/eshop_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eshop_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/migrations/0002_remove_user_mobile_user_avatar.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/migrations/0002_remove_user_mobile_user_avatar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/templates/account_module/forgot_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/templates/account_module/forgot_password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/templates/account_module/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/templates/account_module/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/templates/account_module/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/templates/account_module/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/templates/account_module/reset_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/templates/account_module/reset_password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/migrations/0002_alter_articlecategory_is_active_and_more.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/migrations/0002_alter_articlecategory_is_active_and_more.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/migrations/0003_alter_articlecategory_url_title.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/migrations/0003_alter_articlecategory_url_title.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/migrations/0004_articlecategory_parent.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/migrations/0004_articlecategory_parent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/migrations/0005_article.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/migrations/0005_article.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article_module/templates/article_module/article_detail_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/templates/article_module/article_detail_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/migrations/0002_alter_contactus_is_read_by_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/migrations/0002_alter_contactus_is_read_by_admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/migrations/0003_userprofile.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/migrations/0003_userprofile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/templates/contact_module/contact_us_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/templates/contact_module/contact_us_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/templates/contact_module/create_profile_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/templates/contact_module/create_profile_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/templates/contact_module/profile_list_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/templates/contact_module/profile_list_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emails/activate_account.html" beforeDir="false" afterPath="$PROJECT_DIR$/emails/activate_account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emails/forgot_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/emails/forgot_password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_project/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_project/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_project/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/templates/home_module/about_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/templates/home_module/about_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/templates/home_module/index_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/templates/home_module/index_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/migrations/0002_productbrand_alter_product_slug_alter_product_title_and_more.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/migrations/0002_productbrand_alter_product_slug_alter_product_title_and_more.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/migrations/0003_product_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/migrations/0003_product_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/migrations/0004_rename_images_product_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/migrations/0004_rename_images_product_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/js/jquery.scrollUp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/js/jquery.scrollUp.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/static/js/price-range.js" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/static/js/price-range.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/templates/includes/product_item_partial.html" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/templates/includes/product_item_partial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/templates/product_module/product_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/templates/product_module/product_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/templates/product_module/product_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/templates/product_module/product_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0002_footerlingbox_alter_sitesetting_site_logo_footerlink.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0002_footerlingbox_alter_sitesetting_site_logo_footerlink.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0003_rename_footerlingbox_footerlinkbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0003_rename_footerlingbox_footerlinkbox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0004_slider.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0004_slider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0005_slider_is_active.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0005_slider_is_active.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0006_alter_slider_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0006_alter_slider_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/migrations/0007_alter_slider_image_alter_slider_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/migrations/0007_alter_slider_image_alter_slider_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bace.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bace.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/shared/_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shared/_layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/shared/footer_references.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shared/footer_references.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/shared/header_references.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shared/header_references.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/shared/site_footer_component.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shared/site_footer_component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/shared/site_header_component.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shared/site_header_component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/email_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/email_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +58,10 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "Django Server.eshop_project.executor": "Run",
+    "Python.Unnamed.executor": "Run",
+    "Python.eshope.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.views.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
@@ -170,7 +75,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "two.files.diff.last.used.folder": "/home/user/Programming/eshop_project/eshop_project",
     "vue.rearranger.settings.migration": "true"
   },
@@ -190,8 +95,8 @@
       <recent name="C:\Programming\eshop_project\eshop_project\home_module\templates\home_module" />
     </key>
   </component>
-  <component name="RunManager" selected="Unknown.eshop_project1981144529">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="eshope" type="PythonConfigurationType" factoryName="Python">
       <module name="eshop_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,12 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../python course" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../python course/test.py" />
+      <option name="SCRIPT_NAME" value="eshope" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,39 +118,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="eshop_project" type="Python.DjangoServer" factoryName="Django server">
-      <module name="eshop_project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="eshop_project.settings" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="localhost" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="eshop_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <arguments>
@@ -257,14 +136,23 @@
       </runOnlyEnvs>
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.test" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="eshop_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.11" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="rst2html" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

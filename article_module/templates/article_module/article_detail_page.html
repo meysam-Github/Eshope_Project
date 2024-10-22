@@ -67,7 +67,7 @@
 					{% endif %}
 
 					<!--Comments-->
-					<div class="response-area">
+					<div class="response-area" id="comment_form">
 						<h2> نظرات ({{ comments.count }})</h2>
 						<ul class="media-list">
 							{% for comment in comments %}
@@ -82,7 +82,7 @@
 										<li><i class="fa fa-calendar"></i> {{ comment.create_date |show_jalali_date }} </li>
 									</ul>
 									<p> {{ comment.text }} </p>
-									<a class="btn btn-primary" href=""><i class="fa fa-reply"></i>پاسـخ</a>
+									<a class="btn btn-primary" onclick="fillParentId({{ comment.id }})" ><i class="fa fa-reply"></i>پاسـخ</a>
 								</div>
 							</li>
 
@@ -98,7 +98,6 @@
 										<li><i class="fa fa-calendar"></i> {{ set_comment.create_date |show_jalali_date }} </li>
 									</ul>
 									<p> {{ set_comment.text }} </p>
-									<a class="btn btn-primary" href=""><i class="fa fa-reply"></i>پاسـخ</a>
 								</div>
 							</li>
 							{% endfor %}
@@ -113,12 +112,13 @@
 							<div class="col-sm-12">
 								<h2>نظـر خود را بنویسیـد</h2>
 								<div class="text-area">
+									<input type='hidden' id='parent_id' value="">
 									<div class="blank-arrow">
 										<label>متن پیام</label>
 									</div>
 									<span>*</span>
 									<textarea name="message" rows="11" id="commentText"></textarea>
-									<a class="btn btn-primary" onclick="sendArticleComment()">ارسـال نظـر</a>
+									<a class="btn btn-primary" onclick="sendArticleComment({{ article.id }})">ارسـال نظـر</a>
 								</div>
 							</div>
 						</div>
