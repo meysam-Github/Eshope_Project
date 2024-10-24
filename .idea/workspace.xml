@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4896498f-2e79-4553-9b0f-0ff7e68e4b6e" name="Changes" comment="this is first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/templates/article_module/article_detail_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/templates/article_module/article_detail_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_module/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/article_module/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
-    </list>
+    <list default="true" id="4896498f-2e79-4553-9b0f-0ff7e68e4b6e" name="Changes" comment="this is first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +70,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.general",
     "two.files.diff.last.used.folder": "/home/user/Programming/eshop_project/eshop_project",
     "vue.rearranger.settings.migration": "true"
   },

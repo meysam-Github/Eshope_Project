@@ -67,9 +67,9 @@
 					{% endif %}
 
 					<!--Comments-->
-					<div class="response-area" id="comment_form">
-						<h2> نظرات ({{ comments.count }})</h2>
-						<ul class="media-list">
+					<div class="response-area" id="comments_area">
+						<h2> نظرات ({{ comments_count }})</h2>
+						<ul class="media-list" id="single_comment_box_{{ comment.id }}">
 							{% for comment in comments %}
 							<li class="media">
 								<a class="pull-right" href="#">
@@ -87,7 +87,7 @@
 							</li>
 
 							{% for set_comment in comment.articlecomment_set.all %}
-							<li class="media second-media">
+							<li class="media second-media" id="single_comment_box_{{ comment.id }}">
 								<a class="pull-right" href="#">
 									<img class="media-object" src="/static/images/blog/Customer.jpg" alt="">
 								</a>
