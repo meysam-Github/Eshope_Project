@@ -2,7 +2,7 @@
 {% load render_partial %}
 
 {% block title %}
-    داشبورد
+    ویرایش اطلاعات کاربری
 {% endblock  %}
 
 {% block content %}
@@ -10,7 +10,10 @@
         <div class="row">
                 {% render_partial 'user_panel_module.views.user_panel_menu_component' %}
             <div class="col-md-8">
-                
+                <form action="{% url 'edit_profile_page' %}" method="post">
+                    {% csrf_token %}
+                    {{ form }}
+                </form>
             </div>
         </div>
     </div>
