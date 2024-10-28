@@ -4,7 +4,7 @@ from account_module.models import User
 class EditProfileModelForm(forms.ModelForm):
     class Meta:
         model = User
-        fields = ['first_name', 'last_name', 'avatar', 'address']
+        fields = ['first_name', 'last_name', 'avatar', 'address', 'about_user']
         # fields = '__all__'
         widgets = {
             'first_name': forms.TextInput(attrs={
@@ -19,7 +19,11 @@ class EditProfileModelForm(forms.ModelForm):
             'address': forms.TextInput(attrs={
                 'class': 'form-control',
                 'row' : 3,
-                'id' : 'message',
+            }),
+            'about_user': forms.Textarea(attrs={
+                'class': 'form-control',
+                'row' : 6,
+                'id' : 'message'
             })
         }
 
@@ -27,15 +31,6 @@ class EditProfileModelForm(forms.ModelForm):
             'first_name' : 'نام',
             'last_name' : 'نام خانوادگی',
             'avatar' : 'تصویر پروفایل',
-            'address': 'آدرس'
+            'address': 'آدرس',
+            'about_user': 'درباره شخص',
         }
-
-        error_messages = {
-            'full_name' : {
-                'required' : 'نام و نام  خانوادگی اجبای میباشد'
-            }
-        }
-
-
-class ProfileForm(forms.Form):
-    user_image = forms.FileField()
